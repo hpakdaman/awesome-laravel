@@ -34,6 +34,7 @@
 
 ## Directories
 * [builtwithfilament](https://builtwithfilament.com/) - A directory of websites built with Filament, the elegant TALL stack admin panel for Laravel artisans
+* [wireinthewild](https://wireinthewild.com/) - Wire in the Wild - Real World Laravel Livewire Projects
 
 ## People
 * [Taylor Otwell](https://x.com/taylorotwell) - Founder, CEO - @laravelphp
