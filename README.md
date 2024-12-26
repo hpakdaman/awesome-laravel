@@ -43,4 +43,7 @@
 * [Laravel News](https://laravel-news.com/) - Laravel News is the official blog of Laravel. Every day bringing you the latest news, tutorials, and packages for the framework.
 
 ## Podcasts
-* [Laravel News](https://podcast.laravel-news.com/) - The Laravel News podcast, with hosts Jacob Bennett and Michael Dyrynda, covers all the latest Laravel news, Packages, Events, and everything else new in the community. 
+* [Laravel News](https://podcast.laravel-news.com/) - The Laravel News podcast, with hosts Jacob Bennett and Michael Dyrynda, covers all the latest Laravel news, Packages, Events, and everything else new in the community.
+* [Laravel Podcast](https://laravelpodcast.com/) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
+* [The Business of Laravel](https://businessoflaravel.com/) - Short, powerful interviews with business leaders working with and within the Laravel ecosystem--about business, tech, and more! Hosted by Matt Stauffer.
+
