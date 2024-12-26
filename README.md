@@ -46,4 +46,6 @@
 * [Laravel News](https://podcast.laravel-news.com/) - The Laravel News podcast, with hosts Jacob Bennett and Michael Dyrynda, covers all the latest Laravel news, Packages, Events, and everything else new in the community.
 * [Laravel Podcast](https://laravelpodcast.com/) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
 * [The Business of Laravel](https://businessoflaravel.com/) - Short, powerful interviews with business leaders working with and within the Laravel ecosystem--about business, tech, and more! Hosted by Matt Stauffer.
+* [North Meets South](https://www.northmeetssouth.audio/) - Jake Bennett and Michael Dyrynda conquer a 14.5 hour time difference to talk about life as web developers.
+* [Laracasts Snippet](https://laracasts.com/podcast) - The Laracasts Snippet is a web development podcast hosted by Jeffrey Way.
 
