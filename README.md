@@ -48,4 +48,7 @@
 * [The Business of Laravel](https://businessoflaravel.com/) - Short, powerful interviews with business leaders working with and within the Laravel ecosystem--about business, tech, and more! Hosted by Matt Stauffer.
 * [North Meets South](https://www.northmeetssouth.audio/) - Jake Bennett and Michael Dyrynda conquer a 14.5 hour time difference to talk about life as web developers.
 * [Laracasts Snippet](https://laracasts.com/podcast) - The Laracasts Snippet is a web development podcast hosted by Jeffrey Way.
+* [No Compromises](https://show.nocompromises.io/) - Two seasoned salty programming veterans talk best practices based on years of working with Laravel SaaS teams.
+* [Slightly Caffeinated](https://slightlycaffeinated.fm/) - Join Chris Gmyr and TJ Miller as they dive into the world of PHP, Laravel, and all things programming, while also sharing insights on family life and other musings.
+* [Idle Cursor](https://idlecursor.com/) - A podcast by Matt Stenson sharing thoughts when he is taking a break from code and life. Sometimes about Laravel, sometimes about devops, sometimes about tech, sometimes about something else.
 
